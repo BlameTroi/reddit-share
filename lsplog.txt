@@ -1,0 +1,2 @@
+[START][2025-05-04 20:21:34] LSP logging initiated
+[WARN][2025-05-04 20:21:34] .../lua/vim/lsp.lua:52	"method textDocument/declaration is not supported by any of the servers registered for the current buffer"
